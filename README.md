@@ -8,7 +8,11 @@ Register for a NASA API key at https://api.nasa.gov and enter your Google Maps A
 ## Sample Screenshots
 
 
-    
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/faf3701f-0f89-4e32-a129-0f12f2cbd416" />
+
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/469eb797-bef8-478b-823f-9005024475ec" />
+
+<img width="1920" height="970" alt="Image" src="https://github.com/user-attachments/assets/2e4335f7-8d38-4d89-b4c8-4a2029e63ab5" />
 
 ## Available Scripts
 
