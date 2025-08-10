@@ -1,6 +1,9 @@
 # Wildfire Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To track wildfires and plot them on a Google map
+## API Keys
+
+Register for a NASA API key at https://api.nasa.gov and enter your Google Maps API key in the Map.js component.
 
 ## Available Scripts
 
